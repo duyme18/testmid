@@ -11,6 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <a href="/students">Students</a> |
+  <a href="/classes">Classes</a>
   </body>
 </html>
